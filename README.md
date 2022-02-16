@@ -1,2 +1,3 @@
 # hello-world
-Atividade para a aula 01
+Repositório para a tividade 1 da aula de back-end.
+
